@@ -1,16 +1,9 @@
-# classifier_with_flutter
+# A Cat & Dog Classifier using Flutter and Tensorflow Lite
+## There are two categories - 
+ ### ->  0 - Dog  
+ ### ->  1 - Cat
 
-A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ 
+![selecting a picture from galary](https://github.com/srinath1412001/Cat-vs-Dog-Classifier/blob/master/readme%20pics/pic%201.png?raw=true)
+![result after classification](https://github.com/srinath1412001/Cat-vs-Dog-Classifier/blob/master/readme%20pics/pic%202.png?raw=true)
